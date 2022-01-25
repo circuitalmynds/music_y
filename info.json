@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 474.2867,
+    "videos": [
         "Yngwie J. Malmsteen – Evil Eye--bcYH4E0t-0.mp4",
         "Yngwie Malmsteen - Rising Force-Dngwio0eJS0.mp4",
         "Y tú qué harías-4G4ngM-lrjo.mp4",
@@ -46,7 +47,5 @@
         "YNGWIE MALMSTEEN - VIVALDI-xBFBfy_VjuY.mp4",
         "Y solo me quedé-HMjXko5Z2A0.mp4",
         "Young Americans (From 104.9 XFM Compilation)-7li8ehnYm0M.mp4"
-    ],
-    "id": "y",
-    "total_size": 452.31459375
+    ]
 }
