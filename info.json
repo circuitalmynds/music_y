@@ -1,51 +1,231 @@
 {
     "available_space": true,
-    "total_size": 474.2867,
-    "videos": [
-        "Yngwie J. Malmsteen – Evil Eye--bcYH4E0t-0.mp4",
-        "Yngwie Malmsteen - Rising Force-Dngwio0eJS0.mp4",
-        "Y tú qué harías-4G4ngM-lrjo.mp4",
-        "Y Las Mariposas-UFAh30ePS0M.mp4",
-        "Yello - Oh Yeah (Official Video)-6jJkdRaa04g.mp4",
-        "Y yo que sé-npeE4VNaEbU.mp4",
-        "Y te vas-H7cC224QRo8.mp4",
-        "Yo Nunca Estuve Alli-MwSxD6zREHw.mp4",
-        "Ya no confiamos en nadie-Imn4nia5SOM.mp4",
-        "Yuridia - Ya Es Muy Tarde (Official Video)-FzZS_Lx33Gc.mp4",
-        "YES - Owner of a Lonely Heart (Official Music Video)-SVOuYquXuuc.mp4",
-        "Young Money - Bed Rock (Official Music Video)-Ha80ZaecGkQ.mp4",
-        "ya no llores por mi (tercer cielo)-XTUMh9n3rrg.mp4",
-        "Ya No Quiero Ser Yo-l9FxF7C5J0U.mp4",
-        "Yung Sarria x El Patron 970 - La Clave (prod. by Retromoney)-_h1HsM8RH8c.mp4",
-        "Ya Lo Sé Que Tú Te Vas-1Zj2hDscrUo.mp4",
-        "Y Nos Dieron Las Diez - Conjunto Primavera-hifHMzqVzdg.mp4",
-        "Y QUE ME IMPORTA - CONJUNTO PRIMAVERA-NyqcpiapzYI.mp4",
-        "Yuri, Natalia Jiménez - Una Mentira Más-_LqTN2400zY.mp4",
-        "You Can Have My Husband (Remastered)-MtjTdWasVUw.mp4",
-        "Yo No Se Que Voy A Hacer (En Vivo)-eOUwPVPccwk.mp4",
-        "Yngwie Malmsteen - Canon In D-YFU72OKbmh4.mp4",
-        "Ya No Quiero Más Tu Amor-6cUQ6aXX8mw.mp4",
-        "Yngwie J. Malmsteen – Icarus' Dream Suite Op.4-_fqgoHRm_ns.mp4",
-        "Y COMO ES ÉL..._ - JOSÉ LUIS PERALES - 1982 (REMASTERIZADO)-XBA5J0B2Llg.mp4",
-        "You Never Can Tell-u9l0YBKcGnY.mp4",
-        "Yngwie J. Malmsteen – Far Beyond The Sun-gtL8RF028cE.mp4",
-        "Your Love Never Fails - Chris Quilala _ Jesus Culture - Jesus Culture Music-IoezWBPGRAc.mp4",
-        "Yeah Yeah Yeahs - Heads Will Roll-auzfTPp4moA.mp4",
-        "Yours & Mine-dG8DVOxvLOw.mp4",
-        "y tu por que no-7yltIdRUNvI.mp4",
-        "Y Mañana Qué-H6u_QkyAkNY.mp4",
-        "Yngwie Malmsteen-guitarra acustica-wz1VwVozwjE.mp4",
-        "Your Decision-5OXM7yhw4dM.mp4",
-        "Ya no estás aquí-wuCnC-lO8fI.mp4",
-        "Yung Joc - It's Goin Down (Official Music Video)-rFz59Jmgewk.mp4",
-        "Yo Sé Que Te Acordarás-sB2nWq5Paa4.mp4",
-        "Y TÚ TE VAS (José Luis Perales)-CnaS7XKszYY.mp4",
-        "Young the Giant - Nothing's Over (In The Open)-jkp7mTd_VIU.mp4",
-        "Y ME DA VERGUENZA-JULION ALVAREZ 2014 cd-UPILlrClJSw.mp4",
-        "Yo! Bum Rush The Show-d0AtuNAgM_M.mp4",
-        "You Should Be Dancing-1sqE6P3XyiQ.mp4",
-        "YNGWIE MALMSTEEN - VIVALDI-xBFBfy_VjuY.mp4",
-        "Y solo me quedé-HMjXko5Z2A0.mp4",
-        "Young Americans (From 104.9 XFM Compilation)-7li8ehnYm0M.mp4"
-    ]
+    "files": [
+        {
+            "name": "Yngwie Malmsteen - Rising Force-Dngwio0eJS0.mp4",
+            "path": "music_y/videos/Yngwie Malmsteen - Rising Force-Dngwio0eJS0.mp4",
+            "size": 18.118894592
+        },
+        {
+            "name": "Y tú qué harías-4G4ngM-lrjo.mp4",
+            "path": "music_y/videos/Y tú qué harías-4G4ngM-lrjo.mp4",
+            "size": 4.4114892800000005
+        },
+        {
+            "name": "Y Las Mariposas-UFAh30ePS0M.mp4",
+            "path": "music_y/videos/Y Las Mariposas-UFAh30ePS0M.mp4",
+            "size": 3.8692577280000005
+        },
+        {
+            "name": "Yello - Oh Yeah (Official Video)-6jJkdRaa04g.mp4",
+            "path": "music_y/videos/Yello - Oh Yeah (Official Video)-6jJkdRaa04g.mp4",
+            "size": 15.183318016000001
+        },
+        {
+            "name": "Y yo que sé-npeE4VNaEbU.mp4",
+            "path": "music_y/videos/Y yo que sé-npeE4VNaEbU.mp4",
+            "size": 5.510745088
+        },
+        {
+            "name": "Y te vas-H7cC224QRo8.mp4",
+            "path": "music_y/videos/Y te vas-H7cC224QRo8.mp4",
+            "size": 5.108984832
+        },
+        {
+            "name": "Yo Nunca Estuve Alli-MwSxD6zREHw.mp4",
+            "path": "music_y/videos/Yo Nunca Estuve Alli-MwSxD6zREHw.mp4",
+            "size": 7.6905820160000005
+        },
+        {
+            "name": "Ya no confiamos en nadie-Imn4nia5SOM.mp4",
+            "path": "music_y/videos/Ya no confiamos en nadie-Imn4nia5SOM.mp4",
+            "size": 3.7218846720000003
+        },
+        {
+            "name": "Yuridia - Ya Es Muy Tarde (Official Video)-FzZS_Lx33Gc.mp4",
+            "path": "music_y/videos/Yuridia - Ya Es Muy Tarde (Official Video)-FzZS_Lx33Gc.mp4",
+            "size": 12.297755648
+        },
+        {
+            "name": "YES - Owner of a Lonely Heart (Official Music Video)-SVOuYquXuuc.mp4",
+            "path": "music_y/videos/YES - Owner of a Lonely Heart (Official Music Video)-SVOuYquXuuc.mp4",
+            "size": 29.846424576
+        },
+        {
+            "name": "Young Money - Bed Rock (Official Music Video)-Ha80ZaecGkQ.mp4",
+            "path": "music_y/videos/Young Money - Bed Rock (Official Music Video)-Ha80ZaecGkQ.mp4",
+            "size": 25.789277184000003
+        },
+        {
+            "name": "ya no llores por mi (tercer cielo)-XTUMh9n3rrg.mp4",
+            "path": "music_y/videos/ya no llores por mi (tercer cielo)-XTUMh9n3rrg.mp4",
+            "size": 15.30546688
+        },
+        {
+            "name": "Ya No Quiero Ser Yo-l9FxF7C5J0U.mp4",
+            "path": "music_y/videos/Ya No Quiero Ser Yo-l9FxF7C5J0U.mp4",
+            "size": 6.870757376
+        },
+        {
+            "name": "Yngwie J. Malmsteen – Far Beyond The Sun-D4OxW_0qqv8.mp4",
+            "path": "music_y/videos/Yngwie J. Malmsteen – Far Beyond The Sun-D4OxW_0qqv8.mp4",
+            "size": 11.079954432000001
+        },
+        {
+            "name": "Yung Sarria x El Patron 970 - La Clave (prod. by Retromoney)-_h1HsM8RH8c.mp4",
+            "path": "music_y/videos/Yung Sarria x El Patron 970 - La Clave (prod. by Retromoney)-_h1HsM8RH8c.mp4",
+            "size": 13.247809536
+        },
+        {
+            "name": "Ya Lo Sé Que Tú Te Vas-1Zj2hDscrUo.mp4",
+            "path": "music_y/videos/Ya Lo Sé Que Tú Te Vas-1Zj2hDscrUo.mp4",
+            "size": 8.608151552
+        },
+        {
+            "name": "Y Nos Dieron Las Diez - Conjunto Primavera-hifHMzqVzdg.mp4",
+            "path": "music_y/videos/Y Nos Dieron Las Diez - Conjunto Primavera-hifHMzqVzdg.mp4",
+            "size": 7.307615232000001
+        },
+        {
+            "name": "Yngwie J. Malmsteen – Icarus' Dream Suite Op.4-2rF5Kvr9pVo.mp4",
+            "path": "music_y/videos/Yngwie J. Malmsteen – Icarus' Dream Suite Op.4-2rF5Kvr9pVo.mp4",
+            "size": 16.099269632000002
+        },
+        {
+            "name": "Y QUE ME IMPORTA - CONJUNTO PRIMAVERA-NyqcpiapzYI.mp4",
+            "path": "music_y/videos/Y QUE ME IMPORTA - CONJUNTO PRIMAVERA-NyqcpiapzYI.mp4",
+            "size": 6.529191936
+        },
+        {
+            "name": "Yuri, Natalia Jiménez - Una Mentira Más-_LqTN2400zY.mp4",
+            "path": "music_y/videos/Yuri, Natalia Jiménez - Una Mentira Más-_LqTN2400zY.mp4",
+            "size": 16.016671744
+        },
+        {
+            "name": "You Can Have My Husband (Remastered)-MtjTdWasVUw.mp4",
+            "path": "music_y/videos/You Can Have My Husband (Remastered)-MtjTdWasVUw.mp4",
+            "size": 5.729193984
+        },
+        {
+            "name": "Yo No Se Que Voy A Hacer (En Vivo)-eOUwPVPccwk.mp4",
+            "path": "music_y/videos/Yo No Se Que Voy A Hacer (En Vivo)-eOUwPVPccwk.mp4",
+            "size": 6.574470144
+        },
+        {
+            "name": "Yngwie Malmsteen - Canon In D-YFU72OKbmh4.mp4",
+            "path": "music_y/videos/Yngwie Malmsteen - Canon In D-YFU72OKbmh4.mp4",
+            "size": 8.426089472000001
+        },
+        {
+            "name": "Yngwie J. Malmsteen – Evil Eye-jU_yIM9oz2Y.mp4",
+            "path": "music_y/videos/Yngwie J. Malmsteen – Evil Eye-jU_yIM9oz2Y.mp4",
+            "size": 9.875059712
+        },
+        {
+            "name": "Ya No Quiero Más Tu Amor-6cUQ6aXX8mw.mp4",
+            "path": "music_y/videos/Ya No Quiero Más Tu Amor-6cUQ6aXX8mw.mp4",
+            "size": 5.7759211520000004
+        },
+        {
+            "name": "Y COMO ES ÉL..._ - JOSÉ LUIS PERALES - 1982 (REMASTERIZADO)-XBA5J0B2Llg.mp4",
+            "path": "music_y/videos/Y COMO ES ÉL..._ - JOSÉ LUIS PERALES - 1982 (REMASTERIZADO)-XBA5J0B2Llg.mp4",
+            "size": 11.659771904000001
+        },
+        {
+            "name": "You Never Can Tell-u9l0YBKcGnY.mp4",
+            "path": "music_y/videos/You Never Can Tell-u9l0YBKcGnY.mp4",
+            "size": 3.282436096
+        },
+        {
+            "name": "Your Love Never Fails - Chris Quilala _ Jesus Culture - Jesus Culture Music-IoezWBPGRAc.mp4",
+            "path": "music_y/videos/Your Love Never Fails - Chris Quilala _ Jesus Culture - Jesus Culture Music-IoezWBPGRAc.mp4",
+            "size": 34.943500288
+        },
+        {
+            "name": "Yeah Yeah Yeahs - Heads Will Roll-auzfTPp4moA.mp4",
+            "path": "music_y/videos/Yeah Yeah Yeahs - Heads Will Roll-auzfTPp4moA.mp4",
+            "size": 13.294019584
+        },
+        {
+            "name": "Yours & Mine-dG8DVOxvLOw.mp4",
+            "path": "music_y/videos/Yours & Mine-dG8DVOxvLOw.mp4",
+            "size": 5.427371008000001
+        },
+        {
+            "name": "y tu por que no-7yltIdRUNvI.mp4",
+            "path": "music_y/videos/y tu por que no-7yltIdRUNvI.mp4",
+            "size": 6.441484288000001
+        },
+        {
+            "name": "Y Mañana Qué-H6u_QkyAkNY.mp4",
+            "path": "music_y/videos/Y Mañana Qué-H6u_QkyAkNY.mp4",
+            "size": 4.42888192
+        },
+        {
+            "name": "Yngwie Malmsteen-guitarra acustica-wz1VwVozwjE.mp4",
+            "path": "music_y/videos/Yngwie Malmsteen-guitarra acustica-wz1VwVozwjE.mp4",
+            "size": 12.609886208
+        },
+        {
+            "name": "Your Decision-5OXM7yhw4dM.mp4",
+            "path": "music_y/videos/Your Decision-5OXM7yhw4dM.mp4",
+            "size": 5.749956608000001
+        },
+        {
+            "name": "Ya no estás aquí-wuCnC-lO8fI.mp4",
+            "path": "music_y/videos/Ya no estás aquí-wuCnC-lO8fI.mp4",
+            "size": 4.306084864000001
+        },
+        {
+            "name": "Yung Joc - It's Goin Down (Official Music Video)-rFz59Jmgewk.mp4",
+            "path": "music_y/videos/Yung Joc - It's Goin Down (Official Music Video)-rFz59Jmgewk.mp4",
+            "size": 24.224807936
+        },
+        {
+            "name": "Yo Sé Que Te Acordarás-sB2nWq5Paa4.mp4",
+            "path": "music_y/videos/Yo Sé Que Te Acordarás-sB2nWq5Paa4.mp4",
+            "size": 8.38349312
+        },
+        {
+            "name": "Y TÚ TE VAS (José Luis Perales)-CnaS7XKszYY.mp4",
+            "path": "music_y/videos/Y TÚ TE VAS (José Luis Perales)-CnaS7XKszYY.mp4",
+            "size": 13.851010048000001
+        },
+        {
+            "name": "Young the Giant - Nothing's Over (In The Open)-jkp7mTd_VIU.mp4",
+            "path": "music_y/videos/Young the Giant - Nothing's Over (In The Open)-jkp7mTd_VIU.mp4",
+            "size": 14.640670720000001
+        },
+        {
+            "name": "Y ME DA VERGUENZA-JULION ALVAREZ 2014 cd-UPILlrClJSw.mp4",
+            "path": "music_y/videos/Y ME DA VERGUENZA-JULION ALVAREZ 2014 cd-UPILlrClJSw.mp4",
+            "size": 5.389815808000001
+        },
+        {
+            "name": "Yo! Bum Rush The Show-d0AtuNAgM_M.mp4",
+            "path": "music_y/videos/Yo! Bum Rush The Show-d0AtuNAgM_M.mp4",
+            "size": 10.006951936
+        },
+        {
+            "name": "You Should Be Dancing-1sqE6P3XyiQ.mp4",
+            "path": "music_y/videos/You Should Be Dancing-1sqE6P3XyiQ.mp4",
+            "size": 7.689117696
+        },
+        {
+            "name": "YNGWIE MALMSTEEN - VIVALDI-xBFBfy_VjuY.mp4",
+            "path": "music_y/videos/YNGWIE MALMSTEEN - VIVALDI-xBFBfy_VjuY.mp4",
+            "size": 4.919394304
+        },
+        {
+            "name": "Y solo me quedé-HMjXko5Z2A0.mp4",
+            "path": "music_y/videos/Y solo me quedé-HMjXko5Z2A0.mp4",
+            "size": 5.718503424000001
+        },
+        {
+            "name": "Young Americans (From 104.9 XFM Compilation)-7li8ehnYm0M.mp4",
+            "path": "music_y/videos/Young Americans (From 104.9 XFM Compilation)-7li8ehnYm0M.mp4",
+            "size": 8.32483328
+        }
+    ],
+    "total_size": 474.28622745600006
 }
