@@ -212,6 +212,27 @@
             "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Jose Sosa - El debút de un príncipe (LP Completo)-q2KiIl7MmyM.mp4?raw=true"
         },
         {
+            "id": "hifHMzqVzdg",
+            "name": "Y Nos Dieron las Diez-hifHMzqVzdg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/y/videos/Y Nos Dieron las Diez-hifHMzqVzdg.mp4",
+            "size": 6.157965,
+            "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Y Nos Dieron las Diez-hifHMzqVzdg.mp4?raw=true"
+        },
+        {
+            "id": "auzfTPp4moA",
+            "name": "Yeah Yeah Yeahs - Heads Will Roll (Official Music Video)-auzfTPp4moA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/y/videos/Yeah Yeah Yeahs - Heads Will Roll (Official Music Video)-auzfTPp4moA.mp4",
+            "size": 15.145164999999999,
+            "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Yeah Yeah Yeahs - Heads Will Roll (Official Music Video)-auzfTPp4moA.mp4?raw=true"
+        },
+        {
+            "id": "TCnQGXouAPo",
+            "name": "Vendredi sur Mer - Les Filles Désir-TCnQGXouAPo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/y/videos/Vendredi sur Mer - Les Filles Désir-TCnQGXouAPo.mp4",
+            "size": 23.577333,
+            "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Vendredi sur Mer - Les Filles Désir-TCnQGXouAPo.mp4?raw=true"
+        },
+        {
             "id": "7yltIdRUNvI",
             "name": "y tu por que no-7yltIdRUNvI.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/y/videos/y tu por que no-7yltIdRUNvI.mp4",
@@ -315,6 +336,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/y/videos/Ya Lo Sé Que Tú Te Vas-1Zj2hDscrUo.mp4",
             "size": 8.406398,
             "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Ya Lo Sé Que Tú Te Vas-1Zj2hDscrUo.mp4?raw=true"
+        },
+        {
+            "id": "2rF5Kvr9pVo",
+            "name": "Yngwie Malmsteen - Icarus' Dream Suite Op. 4 [Japanese Philharmonic Orchestra]-2rF5Kvr9pVo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/y/videos/Yngwie Malmsteen - Icarus' Dream Suite Op. 4 [Japanese Philharmonic Orchestra]-2rF5Kvr9pVo.mp4",
+            "size": 20.241051,
+            "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Yngwie Malmsteen - Icarus' Dream Suite Op. 4 [Japanese Philharmonic Orchestra]-2rF5Kvr9pVo.mp4?raw=true"
         },
         {
             "id": "XTUMh9n3rrg",
@@ -513,5 +541,5 @@
             "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Y ME DA VERGUENZA-JULION ALVAREZ 2014 cd-UPILlrClJSw.mp4?raw=true"
         }
     ],
-    "total_size": 1010.1185240000001
+    "total_size": 1075.2400380000001
 }
