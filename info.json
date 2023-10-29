@@ -1,5 +1,5 @@
 {
-    "available_space": false,
+    "available_space": true,
     "content": [
         {
             "id": "FzZS_Lx33Gc",
@@ -296,13 +296,6 @@
             "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Velvet Underground-'I'll Be Your Mirror' from 'Velvet Underground and Nico' LP-dMeZCPbM6bA.mp4?raw=true"
         },
         {
-            "id": "TCnQGXouAPo",
-            "name": "Vendredi sur Mer - Les Filles Désir-TCnQGXouAPo.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y/videos/Vendredi sur Mer - Les Filles Désir-TCnQGXouAPo.mp4",
-            "size": 23.577333,
-            "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Vendredi sur Mer - Les Filles Désir-TCnQGXouAPo.mp4?raw=true"
-        },
-        {
             "id": "kwFqN1UalNI",
             "name": "Los Cadetes de Linares - El Pata de Palo-kwFqN1UalNI.mp4",
             "path": "/home/alanmatzumiya/Videos/container/y/videos/Los Cadetes de Linares - El Pata de Palo-kwFqN1UalNI.mp4",
@@ -345,6 +338,13 @@
             "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/You Never Can Tell-u9l0YBKcGnY.mp4?raw=true"
         },
         {
+            "id": "P-kgyPEhKm8",
+            "name": "Charles Aznavour - Canciones en Español [P-kgyPEhKm8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/y/videos/Charles Aznavour - Canciones en Español [P-kgyPEhKm8].mp4",
+            "size": 20.760234,
+            "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Charles Aznavour - Canciones en Español [P-kgyPEhKm8].mp4?raw=true"
+        },
+        {
             "id": "gmz7JOoBZo8",
             "name": "En blanc et noir, pour piano à quatre mains, CD 142, L. 134 - III. Scherzando (Live)-gmz7JOoBZo8.mp4",
             "path": "/home/alanmatzumiya/Videos/container/y/videos/En blanc et noir, pour piano à quatre mains, CD 142, L. 134 - III. Scherzando (Live)-gmz7JOoBZo8.mp4",
@@ -359,32 +359,11 @@
             "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Los Cadetes de Linares - Silvano Garcia-ewvuI2uxxR8.mp4?raw=true"
         },
         {
-            "id": "VP_bP4DD-74",
-            "name": "souvenirs voyage-VP_bP4DD-74.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y/videos/souvenirs voyage-VP_bP4DD-74.mp4",
-            "size": 24.545323,
-            "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/souvenirs voyage-VP_bP4DD-74.mp4?raw=true"
-        },
-        {
-            "id": "hifHMzqVzdg",
-            "name": "Y Nos Dieron Las Diez - Conjunto Primavera-hifHMzqVzdg.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y/videos/Y Nos Dieron Las Diez - Conjunto Primavera-hifHMzqVzdg.mp4",
-            "size": 7.136343,
-            "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Y Nos Dieron Las Diez - Conjunto Primavera-hifHMzqVzdg.mp4?raw=true"
-        },
-        {
             "id": "ddiR8bEf3kw",
             "name": "Los Cadetes de Linares - Sabor de Engano-ddiR8bEf3kw.mp4",
             "path": "/home/alanmatzumiya/Videos/container/y/videos/Los Cadetes de Linares - Sabor de Engano-ddiR8bEf3kw.mp4",
             "size": 4.370387,
             "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Los Cadetes de Linares - Sabor de Engano-ddiR8bEf3kw.mp4?raw=true"
-        },
-        {
-            "id": "PFVLXShXFFs",
-            "name": "A Couple of Fools in Love-PFVLXShXFFs.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y/videos/A Couple of Fools in Love-PFVLXShXFFs.mp4",
-            "size": 4.327221,
-            "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/A Couple of Fools in Love-PFVLXShXFFs.mp4?raw=true"
         },
         {
             "id": "t8g0GEgG5Vc",
@@ -401,13 +380,6 @@
             "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Y TÚ TE VAS (José Luis Perales)-CnaS7XKszYY.mp4?raw=true"
         },
         {
-            "id": "P-kgyPEhKm8",
-            "name": "Charles Aznavour - Canciones en Español-P-kgyPEhKm8.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y/videos/Charles Aznavour - Canciones en Español-P-kgyPEhKm8.mp4",
-            "size": 70.355164,
-            "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Charles Aznavour - Canciones en Español-P-kgyPEhKm8.mp4?raw=true"
-        },
-        {
             "id": "5OXM7yhw4dM",
             "name": "Your Decision-5OXM7yhw4dM.mp4",
             "path": "/home/alanmatzumiya/Videos/container/y/videos/Your Decision-5OXM7yhw4dM.mp4",
@@ -420,13 +392,6 @@
             "path": "/home/alanmatzumiya/Videos/container/y/videos/Yung Sarria x El Patron 970 - La Clave (prod. by Retromoney)-_h1HsM8RH8c.mp4",
             "size": 12.937313999999999,
             "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Yung Sarria x El Patron 970 - La Clave (prod. by Retromoney)-_h1HsM8RH8c.mp4?raw=true"
-        },
-        {
-            "id": "auzfTPp4moA",
-            "name": "Yeah Yeah Yeahs - Heads Will Roll (Official Music Video)-auzfTPp4moA.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y/videos/Yeah Yeah Yeahs - Heads Will Roll (Official Music Video)-auzfTPp4moA.mp4",
-            "size": 15.145164999999999,
-            "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Yeah Yeah Yeahs - Heads Will Roll (Official Music Video)-auzfTPp4moA.mp4?raw=true"
         },
         {
             "id": "XBA5J0B2Llg",
@@ -450,25 +415,11 @@
             "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Y tú qué harías-4G4ngM-lrjo.mp4?raw=true"
         },
         {
-            "id": "vFpRHw6lxUs",
-            "name": "The Best of Berlioz-vFpRHw6lxUs.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y/videos/The Best of Berlioz-vFpRHw6lxUs.mp4",
-            "size": 88.845895,
-            "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/The Best of Berlioz-vFpRHw6lxUs.mp4?raw=true"
-        },
-        {
             "id": "UPILlrClJSw",
             "name": "Y ME DA VERGUENZA-JULION ALVAREZ 2014 cd-UPILlrClJSw.mp4",
             "path": "/home/alanmatzumiya/Videos/container/y/videos/Y ME DA VERGUENZA-JULION ALVAREZ 2014 cd-UPILlrClJSw.mp4",
             "size": 5.263491999999999,
             "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Y ME DA VERGUENZA-JULION ALVAREZ 2014 cd-UPILlrClJSw.mp4?raw=true"
-        },
-        {
-            "id": "2rF5Kvr9pVo",
-            "name": "Yngwie Malmsteen - Icarus' Dream Suite Op. 4 [Japanese Philharmonic Orchestra]-2rF5Kvr9pVo.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/y/videos/Yngwie Malmsteen - Icarus' Dream Suite Op. 4 [Japanese Philharmonic Orchestra]-2rF5Kvr9pVo.mp4",
-            "size": 20.241051,
-            "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Yngwie Malmsteen - Icarus' Dream Suite Op. 4 [Japanese Philharmonic Orchestra]-2rF5Kvr9pVo.mp4?raw=true"
         },
         {
             "id": "l9FxF7C5J0U",
@@ -541,5 +492,5 @@
             "url": "https://github.com/circuitalmynds/music_y/blob/main/videos/Yo No Se Que Voy A Hacer (En Vivo)-eOUwPVPccwk.mp4?raw=true"
         }
     ],
-    "total_size": 1075.240038
+    "total_size": 841.8267770000001
 }
